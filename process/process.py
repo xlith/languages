@@ -50,8 +50,7 @@ def prep_data():
 
 
 def export_data(data):
-    path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'output'))
-    Path(path).mkdir(parents=True, exist_ok=True)
+    path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
     print(f'output path: {path}')
     data.to_json(os.path.join(path, 'languages.json'), orient='records')
