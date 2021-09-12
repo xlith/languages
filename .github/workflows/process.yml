@@ -42,25 +42,25 @@ jobs:
         fi
       shell: bash
     - name: Get current date
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y.%m.%d')"
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y.%m.%d')"
     - name: Tag Commit
-        id: tag
-        run: |
-          git tag ${{ steps.date.outputs.date }}
+      id: tag
+      run: |
+        git tag ${{ steps.date.outputs.date }}
     - name: Push changes
       if: steps.commit.outputs.push == 'true'
       uses: ad-m/github-push-action@master
       with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
-         tags: true
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        tags: true
     - name: Release
-        uses: softprops/action-gh-release@v1
-        if: startsWith(github.ref, 'refs/tags/')
-        with:
-          files: |
-            languages.json
-            languages.csv
-            languages.xml
-            languages.sqlite3.db
-            languages.sql
+      uses: softprops/action-gh-release@v1
+      if: startsWith(github.ref, 'refs/tags/')
+      with:
+        files: |
+          languages.json
+          languages.csv
+          languages.xml
+          languages.sqlite3.db
+          languages.sql
