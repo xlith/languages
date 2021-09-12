@@ -1,5 +1,4 @@
-name: Process Application
-
+name: Pull Latest Data
 on:    
   schedule:
     - cron: '0 0 * * 0'
