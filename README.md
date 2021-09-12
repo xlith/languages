@@ -1,5 +1,5 @@
 # Languages list
-[![Process Application](https://github.com/xlith/languages/actions/workflows/process.yml/badge.svg?branch=main)](https://github.com/xlith/languages/actions/workflows/process.yml)
+[![Pull Latest Data](https://github.com/xlith/languages/actions/workflows/process.yml/badge.svg?branch=main)](https://github.com/xlith/languages/actions/workflows/process.yml)
 
 This repo contains lists of languages with ISO codes. 
 In the lists, you can find languages names in English, French, Chinese, Russian, and German along with their own native language. 
