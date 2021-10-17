@@ -33,7 +33,7 @@ INSERT INTO "languages" VALUES(31,'dan','da','dan','Indo-European','dansk','Dani
 INSERT INTO "languages" VALUES(32,'deu','de','ger','Indo-European','Deutsch','German','allemand','alemán','德语','немецкий','Deutsch');
 INSERT INTO "languages" VALUES(33,'div','dv','div','Indo-European','ދިވެހިބަސ','Divehi','maldivien','maldivo','迪维希语','дивехи','Dhivehi');
 INSERT INTO "languages" VALUES(34,'dzo','dz','dzo','Sino-Tibetan','རྫོང་ཁ','Dzongkha','dzongkha','dzongkha','宗喀语; 不丹语','дзонг-кэ','Dzongkha');
-INSERT INTO "languages" VALUES(35,'ell','el','gre','Indo-European','Ελληνικά','Greek','grec (moderne)','griego (moderno)','现代希腊语','(ново)греческий','Griechisch');
+INSERT INTO "languages" VALUES(35,'ell','el','gre','Indo-European','Ελληνικά','(New) Greek','grec (moderne)','griego (moderno)','现代希腊语','(ново)греческий','(Neu)griechisch');
 INSERT INTO "languages" VALUES(36,'eng','en','eng','Indo-European','English','English','anglais','inglés','英语','английский','Englisch');
 INSERT INTO "languages" VALUES(37,'epo','eo','epo','constructed','Esperanto','Esperanto','espéranto','esperanto','世界语','эсперанто','Esperanto');
 INSERT INTO "languages" VALUES(38,'est','et','est','Uralic','eesti','Estonian','estonien','estonio','爱沙尼亚语','эстонский','Estnisch');

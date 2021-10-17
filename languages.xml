@@ -460,12 +460,12 @@
   <field name="639-2B">gre</field>
   <field name="Family">Indo-European</field>
   <field name="Native">Ελληνικά</field>
-  <field name="eng">Greek</field>
+  <field name="eng">(New) Greek</field>
   <field name="fra">grec (moderne)</field>
   <field name="spa">griego (moderno)</field>
   <field name="zho">现代希腊语</field>
   <field name="rus">(ново)греческий</field>
-  <field name="deu">Griechisch</field>
+  <field name="deu">(Neu)griechisch</field>
 </item>
 <item>
   <field name="639-3">eng</field>
