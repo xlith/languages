@@ -107,7 +107,7 @@ INSERT INTO "languages" VALUES(105,'mlt','mt','mlt','Afro-Asiatic','bil-Malta','
 INSERT INTO "languages" VALUES(106,'mon','mn','mon','Mongolic','монгол','Mongolian','mongol','mongol','蒙古语','монгольский','Mongolisch');
 INSERT INTO "languages" VALUES(107,'mri','mi','mao','Austronesian','te reo Māori','Maori','maori','maorí','毛利语','маори','Maori');
 INSERT INTO "languages" VALUES(108,'msa','ms','may','Austronesian','bahasa Melayu','Malay (generic)','malais','malayo','马来语','малайский','Malaiisch');
-INSERT INTO "languages" VALUES(109,'mya','my','bur','Sino-Tibetan','မန္မာစာ','Burmese','birman','birmano','缅甸语','бирманский','Burmesisch');
+INSERT INTO "languages" VALUES(109,'mya','my','bur','Sino-Tibetan','မြန်မာစာ','Burmese','birman','birmano','缅甸语','бирманский','Burmesisch');
 INSERT INTO "languages" VALUES(110,'nau','na','nau','Austronesian','ekakairũ naoero','Nauru','nauruan','nauruano','瑙鲁语; 诺鲁语','науру','Nauruisch');
 INSERT INTO "languages" VALUES(111,'nav','nv','nav','Dené–Yeniseian','Diné bizaad','Navajo','navaho','navajo','纳瓦霍语; 纳瓦荷语','навахо','Navajo');
 INSERT INTO "languages" VALUES(112,'nbl','nr','nbl','Niger–Congo','Ndébélé','Ndebele, South','ndébélé du Sud',NULL,'南恩德贝勒语','южный ндебеле',NULL);
