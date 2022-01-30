@@ -728,19 +728,6 @@
   <field name="deu">Hausa</field>
 </item>
 <item>
-  <field name="639-3">hbs</field>
-  <field name="639-1">sh</field>
-  <field name="639-2B">nan</field>
-  <field name="Family">Indo-European</field>
-  <field name="Native">српскохрватски / hrvatskosrpski</field>
-  <field name="eng">Serbo-Croatian</field>
-  <field name="fra">serbo-croate</field>
-  <field name="spa">serbocroata</field>
-  <field name="zho">塞尔维亚-克罗地亚语</field>
-  <field name="rus">сербохорватский</field>
-  <field name="deu">Serbokroatisch</field>
-</item>
-<item>
   <field name="639-3">heb</field>
   <field name="639-1">he</field>
   <field name="639-2B">heb</field>
