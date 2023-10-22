@@ -122,7 +122,7 @@ INSERT INTO "languages" VALUES(120,'oci','oc','oci','Indo-European','occitan','O
 INSERT INTO "languages" VALUES(121,'oji','oj','oji','Cree','ᐊᓂᔑᓇᐯᒧᐎᓐ (Anishinaabemowin)','Ojibwa','ojibwa','ojibwa','奥吉布瓦语','оджибва',NULL);
 INSERT INTO "languages" VALUES(122,'ori','or','ori','Indo-European','ଓଡ଼ିଆ','Oriya','oriya','oriya','奥利亚语; 奥里亚语','ория','Oriya');
 INSERT INTO "languages" VALUES(123,'orm','om','orm','Afro-Asiatic','Oromoo','Oromo','galla','oromo','奥罗莫语','оромо','Oromo');
-INSERT INTO "languages" VALUES(124,'oss','os','oss','Indo-European','иронау','Ossetian','ossète','oseto','奥塞梯语; 奥塞提语','осетинский','Ossetisch');
+INSERT INTO "languages" VALUES(124,'oss','os','oss','Indo-European','ирон','Ossetian','ossète','oseto','奥塞梯语; 奥塞提语','осетинский','Ossetisch');
 INSERT INTO "languages" VALUES(125,'pan','pa','pan','Indo-European','ਪੰਜਾਬੀ','Panjabi; Punjabi','pendjabi','panyabí','旁遮普语','пенджаби','Pandschabisch');
 INSERT INTO "languages" VALUES(126,'pli','pi','pli','Indo-European','पालि, पाळि','Pali','pali',NULL,'巴利语','пали','Pali');
 INSERT INTO "languages" VALUES(127,'pol','pl','pol','Indo-European','polski','Polish','polonais','polaco','波兰语','польский','Polnisch');
