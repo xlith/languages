@@ -3,7 +3,7 @@ INSERT INTO "languages" VALUES(1,'abk','ab','abk','Northwest Caucasian','Аҧс�
 INSERT INTO "languages" VALUES(2,'afr','af','afr','Indo-European','Afrikaans','Afrikaans','Afrikaans','Afrikaans','阿非利堪斯语; 南非荷兰语; 南非语','африкаанс','Afrikaans');
 INSERT INTO "languages" VALUES(3,'aka','ak','aka','Niger–Congo','Akan','Akan','akan','acano','阿坎语','акан','Akan');
 INSERT INTO "languages" VALUES(4,'amh','am','amh','Afro-Asiatic','አማርኛ','Amharic','amharique','amárico','阿姆哈拉语','амхарский','Amharisch');
-INSERT INTO "languages" VALUES(5,'ara','ar','ara','Arabic','العربية','Arabic','arabe','árabe','阿拉伯语','арабский','Arabisch');
+INSERT INTO "languages" VALUES(5,'ara','ar','ara','Afro-Asiatic','العربية','Arabic','arabe','árabe','阿拉伯语','арабский','Arabisch');
 INSERT INTO "languages" VALUES(6,'arg','an','arg','Indo-European','aragonés','Aragonese','aragonais','aragonés','阿拉贡语','арагонский','Aragonisch');
 INSERT INTO "languages" VALUES(7,'asm','as','asm','Indo-European','অসমীয়া','Assamese','assamais','asamés','阿萨姆语','ассамский','Asamiya');
 INSERT INTO "languages" VALUES(8,'ava','av','ava','Northeast Caucasian','авар','Avaric','avar','avaro','阿瓦尔语','аварский',NULL);
